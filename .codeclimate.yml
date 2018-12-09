@@ -1,0 +1,9 @@
+plugins:
+  checkstyle:
+    enabled: true
+
+  pmd:
+    enabled: true
+
+  radon:
+    enabled: true
