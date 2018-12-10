@@ -12,8 +12,6 @@ plugins:
 
   flog:
     enabled: true
-      config:
-        score_threshold: 20.0
 
   reek:
     enabled: true
